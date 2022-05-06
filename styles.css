@@ -1,0 +1,82 @@
+    #nav {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    position:absolute;
+    left: 2%;
+    align-items: center;
+    letter-spacing: 0.055em;
+    text-decoration: none;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: #2FC18C;
+    text-decoration: none;
+}
+
+
+
+#Bonito{
+    position:absolute;
+    width: 30vw;
+    top: 5vh;
+}
+
+#content{
+    position: absolute;
+    width: 70vw;
+    left:28%;
+
+}
+#nome{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.27em;
+
+    color: #2FC18C;
+}
+
+#ABOUT{
+    position: relative;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 0.27em;
+    color: #2FC18C;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: black ;
+    position: absolute;
+}
+#quem {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    letter-spacing: 0.27em;
+    position: relative ;
+
+    color: #FFFFFF;
+}
