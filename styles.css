@@ -137,7 +137,7 @@ body {
 @media only screen and (max-width:600px){
     #ABOUT{
         position: relative;
-        top: 90vw;
+        top: 93vw;
         font-size: 6vw;
         width: 100%;
         line-height: 10vw;
@@ -341,8 +341,8 @@ body {
 @media only screen and (max-width:600px) {
     #trybe{
     position:absolute;
-    top:34vw;
-    left: 13%;
+    top:87vw;
+    left: 45%;
     width: 10vw;
     height: 30vh;   
 }}
