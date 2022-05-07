@@ -164,11 +164,11 @@ body {
         position: absolute;
         top: 98vw;
         font-size: 3.5vw;
-        width: 90vw;
+        width: 70vw;
         line-height: 20px;
         text-align: justify;
-        left: 5vw;
-        right: 5vw;
+        left: 15vw;
+        right: 15vw;
     }
 }
 #meio{
@@ -184,7 +184,7 @@ body {
         flex-direction: column;
         align-items: center;
         justify-content:center;
-        top:160vw;
+        top:168vw;
     }
 }
 #HABILIDADES{
